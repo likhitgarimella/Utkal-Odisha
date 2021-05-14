@@ -1,8 +1,8 @@
 //
 //  XxViewController.swift
-//  Samachar Hub
+//  Utkal Odisha
 //
-//  Created by Likhit Garimella on 12/05/21.
+//  Created by Likhit Garimella on 15/05/21.
 //
 
 import UIKit
