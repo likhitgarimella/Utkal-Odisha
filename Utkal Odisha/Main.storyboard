@@ -153,6 +153,9 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="ea8-uz-cSK" kind="show" id="bxi-Dg-ikt"/>
+                                </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="shape" translatesAutoresizingMaskIntoConstraints="NO" id="Vfv-lS-9Xr">
                                 <rect key="frame" x="386" y="59.666666666666657" width="8" height="15"/>
@@ -180,6 +183,9 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="z42-ZJ-gWH" kind="show" id="g3k-Tq-NUw"/>
+                                </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="shape" translatesAutoresizingMaskIntoConstraints="NO" id="kFp-Iu-tDl">
                                 <rect key="frame" x="386" y="106" width="8" height="15"/>
@@ -207,6 +213,9 @@
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <segue destination="V10-hH-8kr" kind="show" id="aJ6-1T-GMM"/>
+                                </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="shape" translatesAutoresizingMaskIntoConstraints="NO" id="YNa-Bm-Fui">
                                 <rect key="frame" x="386" y="152.66666666666666" width="8" height="15"/>
@@ -1412,7 +1421,7 @@
             </objects>
             <point key="canvasLocation" x="4422" y="-214"/>
         </scene>
-        <!--Mm View Controller-->
+        <!--Tech-->
         <scene sceneID="K4P-I6-kGF">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="ea8-uz-cSK" customClass="MmViewController" customModule="Utkal_Odisha" customModuleProvider="target" sceneMemberID="viewController">
@@ -1422,12 +1431,13 @@
                         <viewLayoutGuide key="safeArea" id="pm1-Zk-2Bd"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
+                    <navigationItem key="navigationItem" title="Tech" id="eO8-3w-Saq"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Hdo-Cf-1bv" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2429" y="876"/>
         </scene>
-        <!--Nn View Controller-->
+        <!--Auto-->
         <scene sceneID="hLk-mZ-WCz">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="z42-ZJ-gWH" customClass="NnViewController" customModule="Utkal_Odisha" customModuleProvider="target" sceneMemberID="viewController">
@@ -1437,12 +1447,13 @@
                         <viewLayoutGuide key="safeArea" id="VTD-kL-tDy"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
+                    <navigationItem key="navigationItem" title="Auto" id="bqJ-mI-mmG"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zOo-E9-Tvt" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3090" y="876"/>
         </scene>
-        <!--Oo View Controller-->
+        <!--Interviews-->
         <scene sceneID="DWA-Vx-0gc">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="V10-hH-8kr" customClass="OoViewController" customModule="Utkal_Odisha" customModuleProvider="target" sceneMemberID="viewController">
@@ -1452,6 +1463,7 @@
                         <viewLayoutGuide key="safeArea" id="lj3-2p-7NS"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
+                    <navigationItem key="navigationItem" title="Interviews" id="zN9-7q-HqV"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Kg9-rO-jMe" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
