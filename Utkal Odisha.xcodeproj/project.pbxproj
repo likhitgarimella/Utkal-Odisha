@@ -9,19 +9,19 @@
 /* Begin PBXBuildFile section */
 		028176AD264E832F0070B7FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028176AC264E832F0070B7FF /* AppDelegate.swift */; };
 		028176AF264E832F0070B7FF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028176AE264E832F0070B7FF /* SceneDelegate.swift */; };
-		028176B4264E832F0070B7FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 028176B2264E832F0070B7FF /* Main.storyboard */; };
 		028176B6264E83310070B7FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 028176B5264E83310070B7FF /* Assets.xcassets */; };
 		028176B9264E83310070B7FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 028176B7264E83310070B7FF /* LaunchScreen.storyboard */; };
+		028176C1264F1D950070B7FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 028176C0264F1D950070B7FF /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		028176A9264E832F0070B7FF /* Utkal Odisha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Utkal Odisha.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		028176AC264E832F0070B7FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		028176AE264E832F0070B7FF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		028176B3264E832F0070B7FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		028176B5264E83310070B7FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		028176B8264E83310070B7FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		028176BA264E83310070B7FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		028176C0264F1D950070B7FF /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 				028176AE264E832F0070B7FF /* SceneDelegate.swift */,
 				028176B5264E83310070B7FF /* Assets.xcassets */,
 				028176B7264E83310070B7FF /* LaunchScreen.storyboard */,
-				028176B2264E832F0070B7FF /* Main.storyboard */,
+				028176C0264F1D950070B7FF /* Main.storyboard */,
 				028176BA264E83310070B7FF /* Info.plist */,
 			);
 			path = "Utkal Odisha";
@@ -121,9 +121,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				028176C1264F1D950070B7FF /* Main.storyboard in Resources */,
 				028176B9264E83310070B7FF /* LaunchScreen.storyboard in Resources */,
 				028176B6264E83310070B7FF /* Assets.xcassets in Resources */,
-				028176B4264E832F0070B7FF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,14 +142,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		028176B2264E832F0070B7FF /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				028176B3264E832F0070B7FF /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		028176B7264E83310070B7FF /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
