@@ -24,7 +24,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      अर्थशास्त्र">
+                                <state key="normal" title="      Finance">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -51,7 +51,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      प्रॉपर्टी">
+                                <state key="normal" title="      Property">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -78,7 +78,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      शिक्षा">
+                                <state key="normal" title="      Edu">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -97,67 +97,32 @@
                                     <constraint firstAttribute="height" constant="0.5" id="AlQ-aT-c0U"/>
                                 </constraints>
                             </view>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="leading" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QML-pp-qmB">
-                                <rect key="frame" x="0.0" y="184.66666666666666" width="414" height="44"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="44" id="kM1-LV-suN"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
-                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      नौकरियां">
-                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                    <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                </state>
-                            </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="shape" translatesAutoresizingMaskIntoConstraints="NO" id="DWb-0b-dRr">
-                                <rect key="frame" x="386" y="199" width="8" height="15"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="8" id="28x-9m-f4q"/>
-                                    <constraint firstAttribute="height" constant="15" id="7ki-Gf-SKg"/>
-                                </constraints>
-                            </imageView>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="F2j-Wb-R2O">
-                                <rect key="frame" x="20" y="229.66666666666666" width="394" height="0.33333333333334281"/>
-                                <color key="backgroundColor" red="0.83741801979999997" green="0.83743780850000005" blue="0.83742713930000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="0.5" id="Uig-FU-PsB"/>
-                                </constraints>
-                            </view>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="7oh-oL-nEA"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstAttribute="trailing" secondItem="F2j-Wb-R2O" secondAttribute="trailing" id="1Db-a1-jNo"/>
                             <constraint firstItem="L3z-V0-ams" firstAttribute="leading" secondItem="7oh-oL-nEA" secondAttribute="leading" id="3Bx-Iw-QgT"/>
-                            <constraint firstItem="F2j-Wb-R2O" firstAttribute="top" secondItem="QML-pp-qmB" secondAttribute="bottom" constant="1" id="5qh-cR-eKo"/>
                             <constraint firstItem="r0m-ml-gcv" firstAttribute="top" secondItem="7oh-oL-nEA" secondAttribute="top" constant="1" id="643-4Z-QTk"/>
                             <constraint firstItem="7oh-oL-nEA" firstAttribute="trailing" secondItem="kj3-Vv-3mY" secondAttribute="trailing" constant="20" id="6Gu-LP-u96"/>
                             <constraint firstItem="7oh-oL-nEA" firstAttribute="trailing" secondItem="ihS-r6-uUX" secondAttribute="trailing" constant="20" id="7ru-EC-SBY"/>
                             <constraint firstAttribute="trailing" secondItem="xHM-je-e0P" secondAttribute="trailing" id="9ju-jw-Myk"/>
                             <constraint firstItem="UCI-pw-cct" firstAttribute="trailing" secondItem="7oh-oL-nEA" secondAttribute="trailing" id="BOW-Ns-fmy"/>
                             <constraint firstItem="kj3-Vv-3mY" firstAttribute="top" secondItem="YBH-Se-ElY" secondAttribute="bottom" constant="15.5" id="D7h-nA-QpV"/>
-                            <constraint firstItem="QML-pp-qmB" firstAttribute="trailing" secondItem="7oh-oL-nEA" secondAttribute="trailing" id="E2z-em-HNR"/>
                             <constraint firstItem="xHM-je-e0P" firstAttribute="leading" secondItem="hkV-e6-Zc9" secondAttribute="leading" constant="20" id="Kct-ll-1hy"/>
                             <constraint firstItem="L3z-V0-ams" firstAttribute="trailing" secondItem="7oh-oL-nEA" secondAttribute="trailing" id="O9K-qa-93k"/>
                             <constraint firstItem="xHM-je-e0P" firstAttribute="top" secondItem="L3z-V0-ams" secondAttribute="bottom" constant="1" id="Q3Z-az-zvK"/>
                             <constraint firstItem="L3z-V0-ams" firstAttribute="top" secondItem="YBH-Se-ElY" secondAttribute="bottom" constant="1" id="QRS-HZ-Xoe"/>
                             <constraint firstItem="7oh-oL-nEA" firstAttribute="trailing" secondItem="i7g-Do-85G" secondAttribute="trailing" constant="20" id="REu-M5-YM0"/>
                             <constraint firstItem="i7g-Do-85G" firstAttribute="top" secondItem="7oh-oL-nEA" secondAttribute="top" constant="15.5" id="TY4-RZ-Czf"/>
-                            <constraint firstItem="F2j-Wb-R2O" firstAttribute="leading" secondItem="hkV-e6-Zc9" secondAttribute="leading" constant="20" id="UYG-yf-9qC"/>
                             <constraint firstItem="YBH-Se-ElY" firstAttribute="top" secondItem="UCI-pw-cct" secondAttribute="bottom" constant="1" id="c3d-ha-0RJ"/>
                             <constraint firstAttribute="trailing" secondItem="IAu-Vl-PW2" secondAttribute="trailing" id="cPz-Iz-WV9"/>
                             <constraint firstAttribute="trailing" secondItem="YBH-Se-ElY" secondAttribute="trailing" id="eVz-Ea-To4"/>
-                            <constraint firstItem="QML-pp-qmB" firstAttribute="top" secondItem="xHM-je-e0P" secondAttribute="bottom" constant="1" id="i4Z-OS-Dap"/>
-                            <constraint firstItem="7oh-oL-nEA" firstAttribute="trailing" secondItem="DWb-0b-dRr" secondAttribute="trailing" constant="20" id="jTy-xb-9wx"/>
                             <constraint firstItem="IAu-Vl-PW2" firstAttribute="leading" secondItem="hkV-e6-Zc9" secondAttribute="leading" constant="20" id="jVP-6O-clv"/>
                             <constraint firstItem="YBH-Se-ElY" firstAttribute="leading" secondItem="hkV-e6-Zc9" secondAttribute="leading" constant="20" id="jou-m1-wLj"/>
                             <constraint firstItem="UCI-pw-cct" firstAttribute="top" secondItem="IAu-Vl-PW2" secondAttribute="bottom" constant="1" id="r7z-F8-PmE"/>
                             <constraint firstItem="ihS-r6-uUX" firstAttribute="top" secondItem="IAu-Vl-PW2" secondAttribute="bottom" constant="15.5" id="toF-OD-1DA"/>
-                            <constraint firstItem="QML-pp-qmB" firstAttribute="leading" secondItem="7oh-oL-nEA" secondAttribute="leading" id="vyN-rv-JQq"/>
                             <constraint firstItem="UCI-pw-cct" firstAttribute="leading" secondItem="7oh-oL-nEA" secondAttribute="leading" id="wwG-S6-kW4"/>
                             <constraint firstItem="IAu-Vl-PW2" firstAttribute="top" secondItem="r0m-ml-gcv" secondAttribute="bottom" constant="1" id="zPW-CP-Cpu"/>
-                            <constraint firstItem="DWb-0b-dRr" firstAttribute="top" secondItem="xHM-je-e0P" secondAttribute="bottom" constant="15.5" id="zYb-64-OuK"/>
                             <constraint firstItem="r0m-ml-gcv" firstAttribute="trailing" secondItem="7oh-oL-nEA" secondAttribute="trailing" id="ziz-yC-BRp"/>
                             <constraint firstItem="r0m-ml-gcv" firstAttribute="leading" secondItem="7oh-oL-nEA" secondAttribute="leading" id="zr2-4H-lIP"/>
                         </constraints>
@@ -184,7 +149,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      टेक्नोलॉजी">
+                                <state key="normal" title="      Tech">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -211,7 +176,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      ऑटोमोबाइल">
+                                <state key="normal" title="      Auto">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -238,7 +203,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      जीवनी">
+                                <state key="normal" title="      Interviews">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -309,7 +274,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      खेल">
+                                <state key="normal" title="      Sports">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -336,7 +301,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      मनोरंजन">
+                                <state key="normal" title="      Entertainment">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -363,7 +328,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      ज्योतिष">
+                                <state key="normal" title="      Astro">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -390,7 +355,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      पर्यावरण">
+                                <state key="normal" title="      Environs">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -417,7 +382,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      हंसी ठट्टा">
+                                <state key="normal" title="      Humor">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -444,7 +409,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      कहानियां">
+                                <state key="normal" title="      Stories">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -471,7 +436,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      कविताओं">
+                                <state key="normal" title="      Poems">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -498,7 +463,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      उद्धरण">
+                                <state key="normal" title="      Thoughts">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -609,7 +574,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      होम">
+                                <state key="normal" title="      Home">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -636,7 +601,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      इंडिया">
+                                <state key="normal" title="      Odisha">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -663,7 +628,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      विश्व">
+                                <state key="normal" title="      India">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -690,7 +655,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      अजब गज़ब">
+                                <state key="normal" title="      World">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -717,7 +682,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      फोटो गैलरी">
+                                <state key="normal" title="      Offbeat">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -744,7 +709,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      वीडियो">
+                                <state key="normal" title="      Photo Gallery">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -771,7 +736,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      अन्यान्य">
+                                <state key="normal" title="      Videos">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -790,6 +755,33 @@
                                     <constraint firstAttribute="height" constant="0.5" id="QZu-Jj-hT1"/>
                                 </constraints>
                             </view>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="leading" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="viF-Lh-n0V">
+                                <rect key="frame" x="0.0" y="370.66666666666669" width="414" height="44"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="44" id="sX6-nf-bL4"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <state key="normal" title="      Miscellany">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                            </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="shape" translatesAutoresizingMaskIntoConstraints="NO" id="Skn-WN-4s3">
+                                <rect key="frame" x="386" y="385" width="8" height="15"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="15" id="I4A-vc-uR6"/>
+                                    <constraint firstAttribute="width" constant="8" id="a8S-Rp-BxM"/>
+                                </constraints>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2Px-aQ-W5t">
+                                <rect key="frame" x="20" y="415.66666666666669" width="394" height="0.33333333333331439"/>
+                                <color key="backgroundColor" red="0.83741801979999997" green="0.83743780850000005" blue="0.83742713930000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="0.5" id="HQC-hs-ZLd"/>
+                                </constraints>
+                            </view>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="D5E-AM-c9d"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -803,6 +795,8 @@
                             <constraint firstItem="zuf-NF-KWZ" firstAttribute="trailing" secondItem="D5E-AM-c9d" secondAttribute="trailing" id="BCP-pd-aZW"/>
                             <constraint firstAttribute="trailing" secondItem="hlk-wH-pg4" secondAttribute="trailing" id="BcL-pF-0pz"/>
                             <constraint firstItem="emp-1Y-xh5" firstAttribute="top" secondItem="NFU-E6-OX0" secondAttribute="bottom" constant="1" id="CLh-ZD-qdy"/>
+                            <constraint firstItem="viF-Lh-n0V" firstAttribute="top" secondItem="q3s-TO-XUh" secondAttribute="bottom" constant="1" id="EI0-Gt-2EH"/>
+                            <constraint firstItem="Skn-WN-4s3" firstAttribute="top" secondItem="q3s-TO-XUh" secondAttribute="bottom" constant="15.5" id="EbB-cx-yBE"/>
                             <constraint firstItem="q3s-TO-XUh" firstAttribute="top" secondItem="emp-1Y-xh5" secondAttribute="bottom" constant="1" id="HEP-mu-zMC"/>
                             <constraint firstItem="Ien-K9-MrD" firstAttribute="top" secondItem="hgs-qq-4hx" secondAttribute="bottom" constant="1" id="HEZ-T5-gIj"/>
                             <constraint firstItem="nee-y5-sh7" firstAttribute="leading" secondItem="D5E-AM-c9d" secondAttribute="leading" id="KHf-9E-Cpo"/>
@@ -812,11 +806,13 @@
                             <constraint firstItem="HN3-ve-DKe" firstAttribute="leading" secondItem="D5E-AM-c9d" secondAttribute="leading" id="N6r-mc-9Fc"/>
                             <constraint firstItem="tdv-Jo-RbO" firstAttribute="top" secondItem="hlk-wH-pg4" secondAttribute="bottom" constant="15.5" id="NM9-ym-7l3"/>
                             <constraint firstItem="hlk-wH-pg4" firstAttribute="leading" secondItem="cSO-gR-CXb" secondAttribute="leading" constant="20" id="NrP-cb-PaH"/>
+                            <constraint firstItem="2Px-aQ-W5t" firstAttribute="leading" secondItem="cSO-gR-CXb" secondAttribute="leading" constant="20" id="Orm-dX-DPm"/>
                             <constraint firstAttribute="trailing" secondItem="NFU-E6-OX0" secondAttribute="trailing" id="OuA-Xt-DuK"/>
                             <constraint firstAttribute="trailing" secondItem="Ien-K9-MrD" secondAttribute="trailing" id="RbK-6D-2JU"/>
                             <constraint firstItem="D5E-AM-c9d" firstAttribute="trailing" secondItem="BwR-1u-LcE" secondAttribute="trailing" constant="20" id="S90-4J-VaW"/>
                             <constraint firstItem="6d7-Xi-bPN" firstAttribute="leading" secondItem="cSO-gR-CXb" secondAttribute="leading" constant="20" id="TNi-gO-csY"/>
                             <constraint firstItem="hgs-qq-4hx" firstAttribute="leading" secondItem="D5E-AM-c9d" secondAttribute="leading" id="TXb-jR-A2a"/>
+                            <constraint firstAttribute="trailing" secondItem="2Px-aQ-W5t" secondAttribute="trailing" id="VOj-fH-Hb0"/>
                             <constraint firstItem="q3s-TO-XUh" firstAttribute="leading" secondItem="cSO-gR-CXb" secondAttribute="leading" constant="20" id="Vim-2x-szF"/>
                             <constraint firstItem="zuf-NF-KWZ" firstAttribute="leading" secondItem="D5E-AM-c9d" secondAttribute="leading" id="Wct-IX-M7Y"/>
                             <constraint firstItem="I3B-4c-Pqd" firstAttribute="top" secondItem="6d7-Xi-bPN" secondAttribute="bottom" constant="15.5" id="YIU-A9-vAl"/>
@@ -832,10 +828,13 @@
                             <constraint firstItem="nee-y5-sh7" firstAttribute="trailing" secondItem="D5E-AM-c9d" secondAttribute="trailing" id="i3m-QD-jfH"/>
                             <constraint firstItem="emp-1Y-xh5" firstAttribute="leading" secondItem="D5E-AM-c9d" secondAttribute="leading" id="iRk-n6-q8X"/>
                             <constraint firstItem="D5E-AM-c9d" firstAttribute="trailing" secondItem="va2-z0-YEr" secondAttribute="trailing" constant="20" id="iW7-uM-PY2"/>
+                            <constraint firstItem="viF-Lh-n0V" firstAttribute="leading" secondItem="D5E-AM-c9d" secondAttribute="leading" id="ibZ-ua-jWJ"/>
                             <constraint firstItem="HN3-ve-DKe" firstAttribute="trailing" secondItem="D5E-AM-c9d" secondAttribute="trailing" id="irH-97-ed5"/>
                             <constraint firstItem="NFU-E6-OX0" firstAttribute="leading" secondItem="cSO-gR-CXb" secondAttribute="leading" constant="20" id="jLf-gL-fBq"/>
+                            <constraint firstItem="2Px-aQ-W5t" firstAttribute="top" secondItem="viF-Lh-n0V" secondAttribute="bottom" constant="1" id="jZZ-Be-gIW"/>
                             <constraint firstItem="i63-eq-pAq" firstAttribute="top" secondItem="1GB-Rc-bbT" secondAttribute="bottom" constant="15.5" id="lVe-3Q-5Cl"/>
                             <constraint firstItem="KOn-dp-ofL" firstAttribute="leading" secondItem="cSO-gR-CXb" secondAttribute="leading" constant="20" id="m45-Fg-aGp"/>
+                            <constraint firstItem="D5E-AM-c9d" firstAttribute="trailing" secondItem="Skn-WN-4s3" secondAttribute="trailing" constant="20" id="mB8-bx-Qnq"/>
                             <constraint firstItem="D5E-AM-c9d" firstAttribute="trailing" secondItem="I3B-4c-Pqd" secondAttribute="trailing" constant="20" id="njy-sz-4Y5"/>
                             <constraint firstItem="D5E-AM-c9d" firstAttribute="trailing" secondItem="6aT-Ia-yWz" secondAttribute="trailing" constant="20" id="npZ-yn-vWJ"/>
                             <constraint firstItem="i3N-4k-ufk" firstAttribute="top" secondItem="hlk-wH-pg4" secondAttribute="bottom" constant="1" id="o3r-CF-bWR"/>
@@ -849,6 +848,7 @@
                             <constraint firstAttribute="trailing" secondItem="q3s-TO-XUh" secondAttribute="trailing" id="wpZ-rr-HQ5"/>
                             <constraint firstItem="6d7-Xi-bPN" firstAttribute="top" secondItem="HN3-ve-DKe" secondAttribute="bottom" constant="1" id="y44-9N-Zlp"/>
                             <constraint firstAttribute="trailing" secondItem="6d7-Xi-bPN" secondAttribute="trailing" id="y80-WT-u9I"/>
+                            <constraint firstItem="viF-Lh-n0V" firstAttribute="trailing" secondItem="D5E-AM-c9d" secondAttribute="trailing" id="yiK-67-g4W"/>
                             <constraint firstItem="Ien-K9-MrD" firstAttribute="leading" secondItem="cSO-gR-CXb" secondAttribute="leading" constant="20" id="zgV-Zq-eQQ"/>
                         </constraints>
                     </view>
@@ -895,7 +895,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      स्वास्थ्य">
+                                <state key="normal" title="      Health">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -922,7 +922,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      जीवन शैली">
+                                <state key="normal" title="      Lifestyle">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -949,7 +949,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      यात्रा">
+                                <state key="normal" title="      Travel">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -976,7 +976,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      खाना खज़ाना">
+                                <state key="normal" title="      Food">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
