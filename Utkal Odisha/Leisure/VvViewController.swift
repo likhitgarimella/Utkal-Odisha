@@ -18,7 +18,7 @@ class VvViewController: UIViewController {
         webview.frame = CGRect(x: 0, y: 0, width: UIScreen.main.bounds.width, height: UIScreen.main.bounds.height)
         view.addSubview(webview)
         
-        let url = URL(string: "https://www.samacharhub.com/environment/")!
+        let url = URL(string: "https://utkalodisha.com/environment/")!
         let request = URLRequest(url: url)
         webview.load(request)
         
