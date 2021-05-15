@@ -24,7 +24,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Finance">
+                                <state key="normal" title="      Finance (ଅର୍ଥ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -54,7 +54,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Property">
+                                <state key="normal" title="      Property (ପ୍ରପଟି)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -84,7 +84,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Edu">
+                                <state key="normal" title="      Education (ଶିକ୍ଷା)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -158,7 +158,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Tech">
+                                <state key="normal" title="      Technology (ଟେକ୍ନୋଲୋଜି)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -188,7 +188,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Auto">
+                                <state key="normal" title="      Automobile (ଅଟୋମୋବାଇଲ୍)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -218,7 +218,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Interviews">
+                                <state key="normal" title="      Interviews (ସାକ୍ଷାତକାର)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -292,7 +292,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Sports">
+                                <state key="normal" title="      Sports (କ୍ରୀଡା)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -322,7 +322,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Entertainment">
+                                <state key="normal" title="      Entertainment (ମନୋରଞ୍ଜନ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -352,7 +352,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Astro">
+                                <state key="normal" title="      Astrology (ଜ୍ୟୋତିଷ ଶାସ୍ତ୍ର)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -382,7 +382,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Environs">
+                                <state key="normal" title="      Environment (ପରିବେଶ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -412,7 +412,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Humor">
+                                <state key="normal" title="      Humor (ହାସ୍ୟରସ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -442,7 +442,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Stories">
+                                <state key="normal" title="      Stories (କାହାଣୀ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -472,7 +472,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Poems">
+                                <state key="normal" title="      Poems (କବିତା)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -502,7 +502,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Thoughts">
+                                <state key="normal" title="      Thoughts &amp; Quotes (ଚିନ୍ତାଧାରା)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -616,7 +616,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Home">
+                                <state key="normal" title="      Home (ହୋମ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -646,7 +646,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Odisha">
+                                <state key="normal" title="      Odisha (ଓଡ଼ିଶା)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -676,7 +676,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      India">
+                                <state key="normal" title="      India (ଭାରତ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -706,7 +706,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      World">
+                                <state key="normal" title="      World (ବିଶ୍ୱ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -736,7 +736,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Offbeat">
+                                <state key="normal" title="      Offbeat News (ଅଫବିଟ୍)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -766,7 +766,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Photo Gallery">
+                                <state key="normal" title="      Photo Gallery (ଫଟୋ ଗ୍ୟାଲେରୀ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -796,7 +796,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Videos">
+                                <state key="normal" title="      Videos (ଭିଡିଓ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -826,7 +826,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Miscellany">
+                                <state key="normal" title="      Miscellany (ବିବିଧ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -977,7 +977,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Health">
+                                <state key="normal" title="      Health (ସ୍ୱାସ୍ଥ୍ୟ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -1007,7 +1007,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Lifestyle">
+                                <state key="normal" title="      Lifestyle (ଜୀବନଶୈଳୀ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -1037,7 +1037,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Travel">
+                                <state key="normal" title="      Travel (ଭ୍ରମଣ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -1067,7 +1067,7 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <state key="normal" title="      Food">
+                                <state key="normal" title="      Food (ଖାଦ୍ୟ)">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     <color key="titleShadowColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
@@ -1326,7 +1326,7 @@
             </objects>
             <point key="canvasLocation" x="4429" y="-1242"/>
         </scene>
-        <!--Offbeat-->
+        <!--Offbeat News-->
         <scene sceneID="oHq-qy-f9I">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="4ft-bk-Buv" customClass="EeViewController" customModule="Utkal_Odisha" customModuleProvider="target" sceneMemberID="viewController">
@@ -1336,7 +1336,7 @@
                         <viewLayoutGuide key="safeArea" id="Cts-gM-Tql"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Offbeat" id="odV-9J-h77"/>
+                    <navigationItem key="navigationItem" title="Offbeat News" id="odV-9J-h77"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="lgq-q5-tI9" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -1454,7 +1454,7 @@
             </objects>
             <point key="canvasLocation" x="4422" y="-214"/>
         </scene>
-        <!--Tech-->
+        <!--Technology-->
         <scene sceneID="K4P-I6-kGF">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="ea8-uz-cSK" customClass="MmViewController" customModule="Utkal_Odisha" customModuleProvider="target" sceneMemberID="viewController">
@@ -1464,13 +1464,13 @@
                         <viewLayoutGuide key="safeArea" id="pm1-Zk-2Bd"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Tech" id="eO8-3w-Saq"/>
+                    <navigationItem key="navigationItem" title="Technology" id="eO8-3w-Saq"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Hdo-Cf-1bv" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2429" y="876"/>
         </scene>
-        <!--Auto-->
+        <!--Automobile-->
         <scene sceneID="hLk-mZ-WCz">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="z42-ZJ-gWH" customClass="NnViewController" customModule="Utkal_Odisha" customModuleProvider="target" sceneMemberID="viewController">
@@ -1480,7 +1480,7 @@
                         <viewLayoutGuide key="safeArea" id="VTD-kL-tDy"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Auto" id="bqJ-mI-mmG"/>
+                    <navigationItem key="navigationItem" title="Automobile" id="bqJ-mI-mmG"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zOo-E9-Tvt" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -1534,7 +1534,7 @@
             </objects>
             <point key="canvasLocation" x="3090" y="1943"/>
         </scene>
-        <!--Edu-->
+        <!--Education-->
         <scene sceneID="njl-Ek-Tmr">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="W6K-Rz-Gbx" customClass="RrViewController" customModule="Utkal_Odisha" customModuleProvider="target" sceneMemberID="viewController">
@@ -1544,7 +1544,7 @@
                         <viewLayoutGuide key="safeArea" id="IU4-TZ-yxR"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Edu" id="fhi-6u-zdD"/>
+                    <navigationItem key="navigationItem" title="Education" id="fhi-6u-zdD"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="oBW-pa-GH0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -1582,7 +1582,7 @@
             </objects>
             <point key="canvasLocation" x="3090" y="2989"/>
         </scene>
-        <!--Astro-->
+        <!--Astrology-->
         <scene sceneID="ygO-ek-FCM">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="roe-Rb-HDP" customClass="UuViewController" customModule="Utkal_Odisha" customModuleProvider="target" sceneMemberID="viewController">
@@ -1592,13 +1592,13 @@
                         <viewLayoutGuide key="safeArea" id="Tcb-4Z-Rbz"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Astro" id="Juf-o9-1wm"/>
+                    <navigationItem key="navigationItem" title="Astrology" id="Juf-o9-1wm"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="u2R-xk-ITV" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3757" y="2989"/>
         </scene>
-        <!--Environs-->
+        <!--Environment-->
         <scene sceneID="b14-Jv-u5N">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="dib-nF-YKt" customClass="VvViewController" customModule="Utkal_Odisha" customModuleProvider="target" sceneMemberID="viewController">
@@ -1608,7 +1608,7 @@
                         <viewLayoutGuide key="safeArea" id="egO-QO-E3x"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Environs" id="Dy8-Ad-KoP"/>
+                    <navigationItem key="navigationItem" title="Environment" id="Dy8-Ad-KoP"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="oc6-KQ-pL9" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -1662,7 +1662,7 @@
             </objects>
             <point key="canvasLocation" x="6409" y="2989"/>
         </scene>
-        <!--Thoughts-->
+        <!--Thoughts & Quotes-->
         <scene sceneID="5jp-Yh-Yfy">
             <objects>
                 <viewController modalPresentationStyle="fullScreen" id="Znz-Ir-LcZ" customClass="ZzViewController" customModule="Utkal_Odisha" customModuleProvider="target" sceneMemberID="viewController">
@@ -1672,7 +1672,7 @@
                         <viewLayoutGuide key="safeArea" id="70z-tJ-ACu"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </view>
-                    <navigationItem key="navigationItem" title="Thoughts" id="yje-y3-mZS"/>
+                    <navigationItem key="navigationItem" title="Thoughts &amp; Quotes" id="yje-y3-mZS"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="XRf-dT-Ugb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
